@@ -12,19 +12,19 @@ Criar um aplicativo que acessa a API do site Imgur, selecione apenas imagens de 
 
 
 
-<img src="imgGithub/img1.jpg">
+<img src="./imgGithub/img1.jpeg">
 
 
 
-<img src="imgGithub/img2.jpg">
+<img src="./imgGithub/img2.jpeg">
 
 
 
-<img src="imgGithub/img3.jpg">
+<img src="./imgGithub/img3.jpeg">
 
 
 
-<img src="imgGithub/img4.jpg">
+<img src="./imgGithub/img4.jpeg">
 
 
 
